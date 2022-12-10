@@ -42,7 +42,7 @@ def main():
     else:
         print("Exited >>>")
         exit()
-    print(f"► LEAP YEAR'S ARE >>> {leap_year}")
+    print(f"► LEAP YEARS ARE >>> {leap_year}")
     print("")
-    print(f"► NON LEAP YEAR'S ARE >>> {non_leap_year}")
+    print(f"► NON LEAP YEARS ARE >>> {non_leap_year}")
 main()
